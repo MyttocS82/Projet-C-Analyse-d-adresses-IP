@@ -1,0 +1,7 @@
+# ninja log v6
+76	200	7475945469710256	CMakeFiles/Code.dir/cartouche.c.obj	19abe697d07e9f77
+86	261	7475945469802231	CMakeFiles/Code.dir/main.c.obj	f26395c93aed9910
+93	268	7475945469876015	CMakeFiles/Code.dir/Fonctions.c.obj	a75647d390b1069b
+268	526	7475945471628610	Code.exe	e7b557021e1ee01c
+5	109	7475946343183130	CMakeFiles/Code.dir/main.c.obj	f26395c93aed9910
+110	230	7475946344233720	Code.exe	e7b557021e1ee01c

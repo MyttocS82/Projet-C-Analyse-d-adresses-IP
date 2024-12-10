@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Code-Debug-8c7729a2896c22773872.json",
+					"name" : "Code",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MICHELON Scott/Documents/Superieur/BUT Informatique 1A/R2.04 - Communication et fonctionnement bas niveau/Mini Projet/projet-2-analyse-d-adresses-ip/cmake-build-debug",
+		"source" : "C:/Users/MICHELON Scott/Documents/Superieur/BUT Informatique 1A/R2.04 - Communication et fonctionnement bas niveau/Mini Projet/projet-2-analyse-d-adresses-ip"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
