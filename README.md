@@ -58,8 +58,7 @@ Si l'adresse IP est invalide, le programme affichera un message d'erreur.
 
 ## Auteurs
 
-Lien du projet : 
-- [@Mini Projet](https://github.com/MyttocS82/Projet-C-Analyse-d-adresses-IP)
+Lien du projet : [@Mini Projet](https://github.com/MyttocS82/Projet-C-Analyse-d-adresses-IP)
 
 - [@Michelon Scott](https://github.com/MyttocS82)
 - [@Vigneau Adam](https://gitlab.info.iut-tlse3.fr/vgd4689a)
